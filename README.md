@@ -1,5 +1,4 @@
 # Advent of Code 2022
-I'm trying to participate in Advent of Code, a bit late, hope to accomplish in time :)  
 
 ## --- Day 1: Calorie Counting ---
 ## --- Day 2: Rock Paper Scissors ---
